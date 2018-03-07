@@ -1,0 +1,6 @@
+{
+  "test_fn.py::IteratorsTestCase::test_every": true,
+  "test_fn.py::IteratorsTestCase::test_first_true": true,
+  "test_fn.py::IteratorsTestCase::test_some": true,
+  "webtest.py::Test::test_2": true
+}

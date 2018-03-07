@@ -1,0 +1,7 @@
+1517651992391	geckodriver	INFO	geckodriver 0.19.1
+1517651992407	geckodriver	INFO	Listening on 127.0.0.1:54696
+1517651995915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Ue3VPswXwa1F"
+1517652060709	geckodriver	INFO	geckodriver 0.19.1
+1517652060722	geckodriver	INFO	Listening on 127.0.0.1:54765
+1517652063751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.h5frTPT4LXq9"
+1517652071484	Marionette	INFO	Enabled via --marionette

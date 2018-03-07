@@ -1,0 +1,9 @@
+{
+  "a/test_nose.py::TestCase::()::test_eq_dict": true,
+  "a/test_nose.py::TestCase::()::test_eq_list": true,
+  "a/test_nose.py::TestCase::()::test_eq_longer_list": true,
+  "a/test_nose.py::TestCase::()::test_eq_set": true,
+  "a/test_nose.py::test_something": true,
+  "a/test_sample.py::TestClass::()::test_two": true,
+  "a/test_sample.py::TestDataLoad::()::test_data_load": true
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<bugzilla>
+  <user userid="1">
+    <uname>scbigboss肖亮@163.com</uname>
+    <pwd>123456</pwd>
+    <url>http://192.168.0.136:5555/wd/hub</url>
+  </user>
+  <user userid="8">
+    <uname>admin@qq.com</uname>
+    <pwd>123456</pwd>
+    <url>http://192.168.0.136:5554/wd/hub</url>
+  </user>
+  <user userid="9">
+    <uname>normal@qq.com</uname>
+    <pwd>123456</pwd>
+    <url>http://192.168.0.136:5553/wd/hub</url>
+  </user>
+  <user userid="10">
+    <uname>overdate@qq.com</uname>
+    <pwd>123456</pwd>
+    <url>http://192.168.0.136:5552/wd/hub</url>
+  </user>
+  <user userid="11">
+    <uname>error@qq.com</uname>
+    <pwd>123456</pwd>
+    <url>http://192.168.0.136:5551/wd/hub</url>
+  </user>
+</bugzilla>
